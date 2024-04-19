@@ -24,13 +24,13 @@ hobbies: ["eSports"]
 <table>
   <tr>
     <td>
-       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priybrata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=programmer-pns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF00" /></a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priybrata's Github Stats" src="https://github-readme-stats.vercel.app/api?username=programmer-pns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000" /></a>
     </td>
     <td>
-       <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-pns&stroke=ffffff&background=FFFFFF00&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-pns&stroke=ffffff&background=000&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
 	<td>
-       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priyabrata's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-pns&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=FFFFFF00"/></a>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Priyabrata's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-pns&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000"/></a>
     </td>
   </tr>
  </table>
@@ -60,7 +60,7 @@ Tools |Preference
 --|--
 **Work Space** | ![Laptop](https://img.shields.io/badge/hp%20laptop-000000?style=for-the-badge&logo=hp&logoColor=white)
 **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit)     ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-**Browser** | ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)    ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)    ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+**Browser** | ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Google_chrome&logoColor=white)    ![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)    ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 **Terminal** | ![Alacrity](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)    ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 **Virtualization** | ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)   ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
